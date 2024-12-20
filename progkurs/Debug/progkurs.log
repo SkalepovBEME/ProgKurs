@@ -1,0 +1,18 @@
+﻿  progkurs.cpp
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(186): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(190): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(197): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(201): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(203): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(211): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(215): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(285): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(319): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(419): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(419): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(659): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(781): warning C4244: =: преобразование "double" в "SHORT", возможна потеря данных
+C:\Users\PC\source\repos\progkurs\progkurs.cpp(970): warning C4101: destCoord: неиспользованная локальная переменная
+  progkurs.vcxproj -> C:\Users\PC\source\repos\progkurs\Debug\progkurs.exe
